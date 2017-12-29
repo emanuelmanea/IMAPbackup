@@ -89,7 +89,7 @@ def delete_mail(login,passw,srv,mailbox,months_old):
 # Main functionality    
 srv = 'imaps.pec.aruba.it'
 logins = ['fonditalia@pec.fonditalia.org','avvisolombardiappss@pec.fonditalia.org','rendicontazione@pec.formasicuro.it']
-passws = ['fondipec8','ppsslomb','rendicontazione']
+passws = ['fondipec815','pp^&sslomb','rendicon&*tazione']
 mailboxes = ['INBOX' , 'INBOX.Inviata']
 
 #'avvisolombardia@pec.fonditalia.org','avvlomb',
